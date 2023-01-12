@@ -8,10 +8,10 @@ http://wooxin.xyz/
 http://wooxin.xyz/tags/MineCraft/
 http://wooxin.xyz/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/
 http://wooxin.xyz/tags/MC/
-http://wooxin.xyz/tags/Left-4-Dead-2/
-http://wooxin.xyz/tags/L4D2/
-http://wooxin.xyz/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/
 http://wooxin.xyz/tags/SCP-Secret-Laboratory/
 http://wooxin.xyz/tags/SCP%E7%A7%98%E5%AF%86%E5%AE%9E%E9%AA%8C%E5%AE%A4/
 http://wooxin.xyz/tags/SCPSL/
+http://wooxin.xyz/tags/Left-4-Dead-2/
+http://wooxin.xyz/tags/L4D2/
+http://wooxin.xyz/tags/%E6%B1%82%E7%94%9F%E4%B9%8B%E8%B7%AF2/
 http://wooxin.xyz/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/
