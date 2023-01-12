@@ -1,0 +1,37 @@
+
+.layout#content-inner {
+    max-width: 1400px
+}
+
+#post .post-copyright {
+    position: relative;
+    margin: 2rem 0 .5rem;
+    padding: .5rem .8rem;
+    transition: box-shadow .3s ease-in-out 0s;
+    background: #16181a;
+    border-radius: 12px !important
+}
+
+#post .post-copyright::before {
+    position: absolute;
+    top: .1rem;
+    right: .6rem;
+    color: #307af6;
+    content: "";
+    font-size: 1rem
+}
+
+#post .post-copyright .post-copyright-meta {
+    color: #307af6;
+    font-weight: 700
+}
+
+
+#post .post-copyright {
+    background: var(--bywind-card-bg);
+    padding: 1rem 1.3rem;
+    overflow: hidden;
+    border: var(--style-border);
+    border-width: 1px;
+    transition: .3s
+}
